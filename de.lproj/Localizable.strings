@@ -64,6 +64,7 @@
 
 /* e.g. New Tag, New Status */
 "newType" = "Neuer %@";
+/* new project would be "Neues Projekt" in german, Tag and Status are "Neuer"*/
 
 "purchasePointsTitle" = "Einige der Plus-Features enthalten";
 "purchaseScreenSupport" = "Unterstütze Indie-Entwickler";
@@ -90,7 +91,7 @@
 "notifcationSettings" = "Benachrichtigungseinstellungen";
 "importNotes" = "Importiere Notizen";
 "importReminders" = "Importiere Erinnerungen";
-"modifyStatuses" = "Ändere Aufgabenstautus";
+"modifyStatuses" = "Ändere Aufgabenstatus";
 "contactUs" = "Kontaktiere uns";
 "twitter" = "Tweete uns";
 "review" = "Bewerte die App";
@@ -208,7 +209,7 @@
 /* Set the date to 9:00PM */
 "set" = "Einstellen";
 
-"onboardingText" = "Erstelle Taks, teile Projekte, passe deinen Arbeitsablauf an und vieles mehr";
+"onboardingText" = "Erstelle Tasks, teile Projekte, passe deinen Arbeitsablauf an und vieles mehr";
 
 "noteImport" = "Einfach einfügen und wir werden die Aufgabe für dich erstellen �";;
 "paste" = "Einfügen";
